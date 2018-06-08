@@ -1,5 +1,5 @@
-# TweetsAnalysisusingSpark
-Tweets Analysis, using Spark SQL.
+
+# Tweets Analysis, using Spark SQL.
 
 This is a basic primer on Spark SQL, have used pre-defined tweets, loaded the same into Spark and then done some basic EDA with Spark SQL.
 
