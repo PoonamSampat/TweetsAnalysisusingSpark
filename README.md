@@ -19,5 +19,7 @@ Have uploaded the dataset as well.
 
 To run the code:
 1. Download the twitter dataset.
+2. Open the Ipython notebook in Hadoop Spark environment.
 2. Rename the path to the dataset, to your local path.
+
 
